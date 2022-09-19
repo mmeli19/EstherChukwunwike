@@ -1,6 +1,6 @@
-#👋  Hey there! I'm Esther!
+# 👋  Hey there! I'm Esther!
 
-#👨🏻‍💻  About Me
+# 👨🏻‍💻  About Me
 
 💡  Engineer, passionate about writing code, building software, hacking projects together and research.
 🎓  I am a senior student-athlete at Claflin University Studying Computer Enginering 
