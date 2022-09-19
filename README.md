@@ -16,6 +16,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)&nbsp;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![RUST](https://img.shields.io/badge/-RUST-333333?style=flat&logo=rust)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
