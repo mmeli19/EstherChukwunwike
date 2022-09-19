@@ -15,7 +15,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![RUST](https://img.shields.io/badge/-rustt-333333?style=flat&logo=rust)&nbsp;
+![RUST](https://img.shields.io/badge/-rust-333333?style=flat&logo=rust)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
