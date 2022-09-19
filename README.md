@@ -2,7 +2,7 @@
 
 # 👨🏻‍💻  About Me
 
-/💡  Engineer, passionate about writing code, building software, hacking projects together and research.
+💡  Engineer, passionate about writing code, building software, hacking projects together and research.
 🎓  I am a senior student-athlete at Claflin University Studying Computer Enginering.
 🌱  I love getting in uncomfortable situation where I'll have to result in hacking/researching my way through.
 ✍️  In my free time, I play the ukele, rollerskate, hike, swim and read books.
