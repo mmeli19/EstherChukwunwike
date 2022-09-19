@@ -1,15 +1,15 @@
 
 
-## 👋 &nbsp;Hey there! I'm Haruna!
+## 👋 &nbsp;Hey there! I'm Esther!
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Engineer, passionate about writing code, building software, hacking projects together and research.\
-🎓 &nbsp;I'm all self taught and will continue to be since I've got this space age intriguing device called the INTERNET.\
+🎓 &nbsp;I am a senior student-athlete at Claflin University Studying Computer Enginering.\
 🌱 &nbsp;I love getting in uncomfortable situation where I'll have to result in hacking/researching my way through.\
-✍️ &nbsp;In my free time, I imaging changing the world by making something users want.\
-💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at harunaoseni23@gmail.com! I'll try to respond as soon as I can.
+✍️ &nbsp;In my free time, I play the ukele, rollerskate, hike, swim and read books.\
+💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion\
+✉️ &nbsp;You can shoot me an email at mmeli.chukwunwike! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -30,21 +30,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 🤝🏻 &nbsp;Connect with Me via linkedIn @ www.linkedin.com/in/haruna-oseni-b690191b8
-
-
-# 👋  Hey there! I'm Esther!
-
-# 👨🏻‍💻  About Me
-
-💡  Engineer, passionate about writing code, building software, hacking projects together and research.
-🎓  I am a senior student-athlete at Claflin University Studying Computer Enginering.
-🌱  I love getting in uncomfortable situation where I'll have to result in hacking/researching my way through.
-✍️  In my free time, I play the ukele, rollerskate, hike, swim and read books.
-💬  Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.
-✉️  You can shoot me an email at mmeli.chukwunwike! I'll try to respond as soon as I can.
+### 🤝🏻 &nbsp;Connect with Me via linkedIn @ [https://www.linkedin.com/in/esther-chukwunwike/]
 
 # 🛠  Tech Stack
 Java Python RUST JavaScript  Python  React  React Native  Redux  NodeJS  Express  HTML  SCSS/CSS  Git  GitHub  Visual Studio Code 
 
-🤝🏻  Connect with Me via linkedIn @ https://www.linkedin.com/in/esther-chukwunwike/
+
