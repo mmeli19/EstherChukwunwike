@@ -12,4 +12,4 @@
 # 🛠  Tech Stack
 Java Python RUST JavaScript  Python  React  React Native  Redux  NodeJS  Express  HTML  SCSS/CSS  Git  GitHub  Visual Studio Code 
 
-# 🤝🏻  Connect with Me via linkedIn @ https://www.linkedin.com/in/esther-chukwunwike/
+🤝🏻  Connect with Me via linkedIn @ https://www.linkedin.com/in/esther-chukwunwike/
