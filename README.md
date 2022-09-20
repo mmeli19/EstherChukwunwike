@@ -33,8 +33,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me via linkedIn @ https://www.linkedin.com/in/esther-chukwunwike/
-
-# 🛠  Tech Stack
-Java Python RUST JavaScript  Python  React  React Native  Redux  NodeJS  Express  HTML  SCSS/CSS  Git  GitHub  Visual Studio Code 
-
-
